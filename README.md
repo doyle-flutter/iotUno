@@ -1,6 +1,10 @@
 # iotUno
 
 
+### Kit
+
+<img width="30%" style="display:inline;" src="https://user-images.githubusercontent.com/56661529/118120838-7a193d80-b42b-11eb-8c04-2c132346534c.png" />
+
 <br />
 
 ### Arduino Uno
